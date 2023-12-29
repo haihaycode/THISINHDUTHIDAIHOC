@@ -1,0 +1,4 @@
+Đầu tiên ta mở sql server và tìm đén file FullSql có trong source để chạy file này 
+với tên là Sa 
+Mật Khẩu songlong
+và nhấn mở phần mềm để chaỵ
